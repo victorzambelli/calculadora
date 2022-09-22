@@ -1,18 +1,17 @@
 # calculadora
-Projeto de desenvolvido com base em uma calculadora com funções simples (adição, subtração, etc...)
+Project developed is a simple calculator with simple functions (addition, subtraction, etc.)
 
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## 🚀 Technologies
+This project was developed with the following technologies:
 - HTML
 - CSS
 - JavaScript
 
-## 📚 Bibliotecas:
+## 📚 Libraries
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Font Awesome](https://fontawesome.com/)
 
-## 💻 Projeto
+## 💻 Project
 ![preview](./preview.png/)
-[Clique aqui para acessar](https://calculadora-chi-ashen.vercel.app/)
-> **Objetivo:** Criar uma Calculadora com JavaScript.
+[Click here to access project](https://calculadora-chi-ashen.vercel.app/)
+> **Objective:** Create a Calculator.
